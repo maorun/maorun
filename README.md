@@ -65,4 +65,4 @@ in Github (public):
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maorun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://nextjs-4l76p5ai1-maorun.vercel.app/api/codestats/maorun/top/10)](https://codestats.net/users/maorun)
+[![Top Langs](https://code-stats-maorun.vercel.app/api/codestats/maorun/top/10)](https://codestats.net/users/maorun)
