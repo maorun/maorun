@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="fun-header" />
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="fun-header" />
 </div>
 
 ---
@@ -17,7 +17,7 @@ Full Stack Developer from Germany
 
 ### 🛠️ Languages and Tools:
 <div id="languages-and-tools">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40" />
   
@@ -43,19 +43,29 @@ Trial:
 
 
 <div id="trail-languages-and-tools">
-</div>
+        <img src="https://obsidian.md/images/obsidian-logo-gradient.svg" title="Obsidian" alt="Obsidian" width="40" height="40" />
+    for notes
+    </div>
 
-#### Abadoned Languages and Tools:
-<div id="abadoned-languages-and-tools">
-  <img src="https://raw.githubusercontent.com/devicons/devicon//master/icons/zend/zend-plain-wordmark.svg" title="" alt="" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original-wordmark.svg" title="" alt="" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="Sourcetree" alt="Sourcetree" width="40" height="40" />
-  
-</div>
+#### Abandoned Languages and Tools:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon//master/icons/zend/zend-plain-wordmark.svg" title="" alt="" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original-wordmark.svg" title="" alt="" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40" />
+
+now using ReactJS
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40" />
+
+vite is much faster
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" />
+
+using document-based-databases now
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="Sourcetree" alt="Sourcetree" width="40" height="40" />
+
+use neovim-plugin or the console
 
 ---
 
