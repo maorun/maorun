@@ -11,7 +11,7 @@
 Full Stack Developer from Germany
 
 - 🌱 I’m currently learning [[NeoVim]] [![NeoVim](https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/neovim/neovim) 
-- 📫 How to reach me: [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Marco_Driemel/)
+- 📫 How to reach me: [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Marco_Driemel/) [![LinkedIn](https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarco-driemel-a14b03226%2F)](https://www.linkedin.com/in/marco-driemel-a14b03226/)
 
 ---
 
@@ -49,9 +49,9 @@ Trial:
 
 #### Abandoned Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon//master/icons/zend/zend-plain-wordmark.svg" title="" alt="" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original-wordmark.svg" title="" alt="" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon//master/icons/zend/zend-original-wordmark.svg" title="" alt="" width="40" height="40" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain-wordmark.svg" title="" alt="" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40" />
 
 now using ReactJS
 
