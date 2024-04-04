@@ -24,7 +24,7 @@ Full Stack Developer from Germany
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodeJS" alt="nodeJS" width="40" height="40" />
@@ -38,14 +38,14 @@ Full Stack Developer from Germany
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" title="VIM" alt="VIM" width="40" height="40" />
 
+  <img src="https://obsidian.md/images/obsidian-logo-gradient.svg" title="Obsidian" alt="Obsidian" width="40" height="40" />
+
 </div>
 Trial:
 
-
 <div id="trail-languages-and-tools">
-        <img src="https://obsidian.md/images/obsidian-logo-gradient.svg" title="Obsidian" alt="Obsidian" width="40" height="40" />
-    for notes
-    </div>
+    nothing particular
+</div>
 
 #### Abandoned Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />
@@ -55,7 +55,7 @@ Trial:
 
 now using ReactJS
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="40" height="40" />
 
 vite is much faster
 
@@ -65,7 +65,7 @@ using document-based-databases now
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="Sourcetree" alt="Sourcetree" width="40" height="40" />
 
-use neovim-plugin or the console
+using neovim-plugin or the console
 
 ---
 
