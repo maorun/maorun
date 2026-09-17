@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="fun-header" />
+</div>
+
 I’m Marco, a Full Stack Developer from Germany.
 
 ---
