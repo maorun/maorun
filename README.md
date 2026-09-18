@@ -44,4 +44,4 @@ I’m Marco, a Full Stack Developer from Germany.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maorun)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maorun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Maorun&layout=compact&theme=vision-friendly-dark)](https://github.com/stats-organization/github-stats-extended)
